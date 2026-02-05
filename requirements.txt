@@ -1,0 +1,15 @@
+fastapi>=0.110
+uvicorn>=0.27
+streamlit>=1.32
+pydantic>=2.6
+pydantic-settings>=2.2
+python-dotenv>=1.0
+requests>=2.31
+
+numpy>=1.26
+faiss-cpu>=1.8.0
+rank-bm25>=0.2.2
+sentence-transformers>=2.6
+
+pymupdf>=1.23
+trafilatura>=1.8

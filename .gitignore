@@ -1,0 +1,22 @@
+# Python / venv
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Build artifacts
+*.egg-info/
+dist/
+build/
+
+# Local config
+.env
+
+# Runtime artifacts
+data/runs/*
+data/eval/latest.json
+data/index/*
+data/raw/pdfs/*.pdf
+
+.DS_Store

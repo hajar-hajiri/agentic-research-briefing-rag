@@ -1,0 +1,6 @@
+This repository demonstrates a research-briefing pipeline built on agentic RAG principles:
+- Evidence-first generation with strict citations
+- Hybrid retrieval + optional reranking
+- Guardrails against injection and PII leaks
+- Structured run traces for auditability
+- Evaluation harness to prevent regressions
