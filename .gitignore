@@ -18,5 +18,9 @@ data/runs/*
 data/eval/latest.json
 data/index/*
 data/raw/pdfs/*.pdf
+!data/runs/.gitkeep
+!data/eval/.gitkeep
+!data/raw/pdfs/.gitkeep
+!data/raw/pages/.gitkeep
 
 .DS_Store
